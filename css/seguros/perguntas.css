@@ -55,7 +55,7 @@
 .js .perguntas dd.ativa {
   display: block;
 }
-.js .perguntas dd {
+.perguntas dd {
   padding-left: 20px;
   padding-top: 16px;
   max-width: 80ch;
